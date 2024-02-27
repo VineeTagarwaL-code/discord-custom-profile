@@ -131,7 +131,11 @@ const getRandomAboutMe = () => {
   return aboutMe[Math.floor(Math.random() * aboutMe.length)];
 };
 
-client.login(config.token);
+client.login(config.token).catch((err) => {
+  console.log(`[ Error ]`.red, `Invalid Token!`.yellow);
+  process.exit(1);
+});
+
 const getRandomHexCode = () => {
   const letters = "0123456789ABCDEF";
   let hexCode = "#";
