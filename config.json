@@ -1,0 +1,65 @@
+{
+  "toggleActivity": true,
+  "toggleAboutMe": true,
+  "toggleAccent": true,
+  "toggleCustomStatus": false,
+  "activities": [
+    {
+      "name": "Building a React Native App",
+      "type": "STREAMING",
+
+      "url": "https://www.twitch.tv/codestream"
+    },
+    {
+      "name": "Optimizing Database Queries",
+      "type": "STREAMING",
+      "url": "https://www.twitch.tv/codestream"
+    },
+    {
+      "name": "Developing a RESTful Microservice",
+      "type": "STREAMING",
+      "url": "https://www.twitch.tv/coderpro"
+    },
+    {
+      "name": "Debugging a Complex Algorithm",
+      "type": "STREAMING",
+      "url": "https://www.twitch.tv/codestream"
+    },
+    {
+      "name": "Coding a Custom WordPress Theme",
+      "type": "WATCHING"
+    },
+    {
+      "name": "Live API Integration",
+      "type": "STREAMING",
+      "url": "https://www.twitch.tv/codestream"
+    }
+  ],
+  "customStatus": [
+    "Coding sorcerer, open source advocate, and a devOps enthusiast 🚀",
+    "Crafting magic with code, available for bot, website, and script creations! ✨",
+    "DevOps spellcaster, ready to weave magic into your projects. DM for bespoke solutions! 🧙‍♂️",
+    "Full stack alchemist, delving into the realms of open source. Let's discuss code and more! 🌐",
+    "Script conjurer, specializing in bots and websites. DM me for a touch of coding magic! 📜✨",
+    "Passionate developer, spreading the love for open source. DM for all your coding needs! ❤️👩‍💻",
+    "Web wizard at your service! Need a bot, website, or script? Slide into my DMs! 🕸️💻",
+    "Coding virtuoso with a passion for devOps. Let's chat about your projects and ideas! 🚧",
+    "Magician of the code, offering custom solutions. DM for bot, website, or script inquiries! 🎩💻",
+    "Full stack enchanter, exploring the magic of open source. DM me for coding wonders! 🌟🔮"
+  ],
+  "aboutMe": [
+    "👩‍💻 Full Stack Developer",
+    "🌐 Open Source Advocate",
+    "🔮 DevOps Enthusiast",
+    "🚀 Code Sorcerer",
+    "📜 Script Conjurer",
+    "🕸️ Web Wizard",
+    "🎩 Code Magician",
+    "🌟 Coding Virtuoso",
+    "🔮 Full Stack Enchanter",
+    "🚧 DevOps Spellcaster"
+  ],
+
+  "token": "",
+  "delay": 60
+}
